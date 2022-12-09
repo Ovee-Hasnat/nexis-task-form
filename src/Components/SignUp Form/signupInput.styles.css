@@ -1,0 +1,18 @@
+.form-input-group{
+    margin: 30px 0;
+}
+
+.form-container {
+    margin: 75px 0 70px 0;
+}
+
+.formInput {
+    width: 80%;
+    padding: 2px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom: 1px solid #A4A4A4;
+    color: #B4B4B4;
+    
+}

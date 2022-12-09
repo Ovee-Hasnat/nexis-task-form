@@ -1,0 +1,21 @@
+.logo{
+    min-width: 95px;
+    height: 60px;
+    margin-top: 6vh;
+    margin-left: 4vw;
+}
+
+.form{
+    width: 80%;
+    height: 70vh;
+    background: #FFFFFF;
+    box-shadow: 1px -10px 25px rgba(201, 201, 201, 0.25), -1px 10px 25px rgba(147, 147, 147, 0.25);
+    margin: 25px auto 25px auto;
+}
+
+.main-image{
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 80%;
+    min-width: 300px;
+}
